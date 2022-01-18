@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Conall Daly"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Mechanical engineer, currently working in vehicle safety simulation. Interested in automotive, aeronautical and computational engineering"
   links:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
