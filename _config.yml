@@ -62,7 +62,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Linkedin"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/conalldaly/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -71,7 +71,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/conalldaly/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
