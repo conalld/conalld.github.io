@@ -1,5 +1,5 @@
 ---
-title: "Research Methods Project: A critical analysis of novel acoustic metamaterials applied to automotive"
+title: "Research Methods Project: A Critical Analysis of Novel Acoustic Metamaterials Applied to Automotive Silencers"
 categories:
   - College Projects
 tags:
