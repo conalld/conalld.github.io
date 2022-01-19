@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of Solids Project"
+title: "Mechanics of Solids Project: An Analysis of Wing Loading on the Airbus A380"
 categories:
   - College Projects
 tags:
