@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Portfolio
+title: conalld.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,21 +60,21 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Mechanical engineer, currently working in vehicle safety simulation. Interested in automotive, aeronautical and computational engineering."
   links:
-    - label: "Linkedin"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/conalldaly/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/conalldaly/"
 
 footer:
   links:
-    - label: "Linkedin"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/conalldaly/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/conalldaly/"
 
 defaults:
   # _posts
