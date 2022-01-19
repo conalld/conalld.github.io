@@ -64,18 +64,24 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/conalldaly/"
+    - label: "Formula Trinity"
+      icon: "fas fa-flag-checkered"
+      url: "https://formulatrinity.com/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/conalldaly/"
+    - label: "Formula Trinity"
+      icon: "fas fa-flag-checkered"
+      url: "https://formulatrinity.com/"
 
 defaults:
   # _posts
