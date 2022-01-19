@@ -59,6 +59,7 @@ author:
   name   : "Conall Daly"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Mechanical engineer, currently working in vehicle safety simulation. Interested in automotive, aeronautical and computational engineering."
+  location : "Dublin, Ireland"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
