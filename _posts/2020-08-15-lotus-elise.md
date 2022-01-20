@@ -1,5 +1,5 @@
 ---
-title: "Lotus Elise: The Inside Story"
+title: "Interesting Things: Documentary on Design of the Lotus Elise"
 categories:
   - Interesting Things
 tags:
