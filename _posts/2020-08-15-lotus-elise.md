@@ -7,5 +7,4 @@ tags:
 link: https://www.youtube.com/watch?v=a-TiFKr2yb0
 header:
   teaser: "/assets/images/lotus-elise.jpg"
-classes: wide
 ---
