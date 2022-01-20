@@ -1,5 +1,5 @@
 ---
-title: "Simulating the Williams FW43B(AR), Part 1: All Simulations Are Wrong"
+title: "Interesting Things: Simulating the Williams FW43B(AR), Part 1: All Simulations Are Wrong"
 categories:
   - Interesting Things
 tags:
