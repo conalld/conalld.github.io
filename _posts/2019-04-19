@@ -1,0 +1,109 @@
+---
+title: "Universal Design Innovation Project: NaviPal"
+categories:
+  - College Projects
+tags:
+  - Numerical Methods
+  - Image Processing
+  - Software Development
+header:
+  teaser: "/assets/images/imag-proc/corrupted-image.jpg"
+classes: wide
+---
+
+~~~cpp
+
+clear;
+close all;
+
+original_pic = imread('greece.tif');
+
+stored_structure = load('badpicture.mat');
+I = stored_structure.badpic;
+
+badpixels = imread('badpixels.tif');
+badpixels = double(badpixels);
+
+load forcing.mat;
+
+figure(1);
+imshow(original_pic)
+title('Original');
+axis on;
+
+figure(2);
+imshow(I, [])
+title('Corrupted Picture');
+axis on;
+
+%Image processing setup
+image_iterations = 50;
+original_pic = double(original_pic);
+E = zeros(720, 1280);
+alpha = 1;
+
+restored_image_1 = I;
+restored_image_1_error = zeros(image_iterations, 1);
+
+%f(m, n) = 0
+for i = 1:image_iterations   
+    for m = 2:720
+        for n = 2:1280
+            if badpixels(m, n) == 1
+                E(m, n) = restored_image_1(m - 1, n) + restored_image_1...
+                    (m + 1, n) + restored_image_1(m, n - 1) +...
+                    restored_image_1(m, n + 1) - 4 * restored_image_1...
+                    (m, n);
+                
+                restored_image_1(m, n) = restored_image_1(m, n) +...
+                    (alpha * (E(m, n) / 4));
+            end
+        end
+    end
+    restored_image_1_error(i) = std2(abs(original_pic - restored_image_1));
+end
+
+restored_image_2 = I;
+restored_image_2_error = zeros(image_iterations, 1);
+
+%f(m, n) read from array
+for i = 1:image_iterations
+    for m = 2:720
+        for n = 2:1280
+            if badpixels(m, n) == 1
+                E(m, n) = restored_image_2(m - 1, n) + restored_image_2...
+                    (m + 1, n) + restored_image_2(m, n - 1) + ...
+                    restored_image_2(m, n + 1) - 4 * restored_image_2...
+                    (m, n) - f(m, n);
+                
+                restored_image_2(m, n) = restored_image_2(m, n) +...
+                    (alpha * (E(m, n) / 4));
+            end
+        end
+    end
+    restored_image_2_error(i) = std2(abs(original_pic - restored_image_2));
+end
+
+figure(3);
+imshow(restored_image_1, [])
+title('Restored Picture');
+axis on;
+
+figure(4);
+imshow(restored_image_2, [])
+title('Restored Picture (with Forcing Function)');
+axis on;
+
+xaxis = 1:image_iterations;
+
+figure(5);
+plot(xaxis, restored_image_1_error, xaxis, restored_image_2_error, ...
+    'linewidth', 3);
+title('Error Curves');
+xlabel('Iterations');
+ylabel('Std Error');
+xlim([0 image_iterations]);
+ylim([0 20]);
+legend('No forcing function', 'With forcing function', 'Location', ...
+    'Northeast');
+~~~
