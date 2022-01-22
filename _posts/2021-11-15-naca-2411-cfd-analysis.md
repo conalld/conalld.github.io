@@ -1,5 +1,5 @@
 ---
-title: "Fluid Mechanics Project: Analysis of the Aerodynamic Performance of a NACA 2411 Airfoil with CFD"
+title: "Fluid Mechanics Project: Analysis of the Aerodynamic Performance of a NACA 2411 Aerofoil with CFD"
 categories:
   - College Projects
 tags:
