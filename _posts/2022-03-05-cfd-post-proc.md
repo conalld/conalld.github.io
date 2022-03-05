@@ -9,6 +9,6 @@ header:
 classes: wide
 ---
 
-<video width="920" height="760" controls="controls">
-  <source src="/assets/videos/navipal-video-1.mp4" type="video/mp4">
+<video width="920" height="760" controls="controls autoplay muted">
+  <source src="/assets/videos/cpt-opaque.mp4" type="video/mp4">
 </video>
