@@ -9,6 +9,6 @@ header:
 classes: wide
 ---
 
-<video width="920" height="760" loop="true" autoplay="autoplay" controls muted>
+<video width="920" height="760" loop="true" autoplay="autoplay" controls="controls">
   <source src="/assets/videos/cpt-opaque.mp4" type="video/mp4">
 </video>
