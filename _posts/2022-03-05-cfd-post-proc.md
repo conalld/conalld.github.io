@@ -4,6 +4,7 @@ categories:
   - Personal Projects
 tags:
   - Aerodynamics
+  - CFD
 header:
   teaser: "/assets/images/cpt-opaque.jpeg"
 classes: wide
