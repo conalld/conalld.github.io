@@ -5,7 +5,7 @@ categories:
 tags:
   - Aerodynamics
 header:
-  teaser: "/assets/images/navipal/cpt-opaque.png"
+  teaser: "/assets/images/navipal/cpt-opaque.jpeg"
 classes: wide
 ---
 
