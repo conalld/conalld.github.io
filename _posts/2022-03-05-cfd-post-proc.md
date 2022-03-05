@@ -15,3 +15,5 @@ classes: wide
 </video>
 
 $$ p_T = p_{ref} + p_0 + \frac{1}{2}\rho U_{\infty} ^ 2}{\frac{1}{2}\rho U_{\infty} ^ 2 $$
+
+$$ C_{pT} = \frac{p_T}{\frac{1}{2}\rho U_{\infty} ^ 2} $$
