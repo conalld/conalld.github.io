@@ -13,3 +13,5 @@ classes: wide
 <video width="100%" muted playsinline autoplay="autoplay" loop="loop">
   <source src="/assets/videos/cpt-opaque.mp4" type="video/mp4">
 </video>
+
+$$ C_{pT} = \frac{p_0 + \frac{1}{2}\rho U_{\infty} ^ 2}{\frac{1}{2}\rho U_{\infty} ^ 2} $$
