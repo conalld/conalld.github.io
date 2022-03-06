@@ -1,7 +1,7 @@
 ---
-title: "CFD Post Processing for a Formula Student Car"
+title: "Article: CFD Post Processing for a Formula Student Car"
 categories:
-  - Personal Projects
+  - Articles
 tags:
   - Aerodynamics
   - CFD
