@@ -20,7 +20,7 @@ $$ p_D = \frac{1}{2}\rho U ^ 2 $$
 
 $$ p_T = p_S + p_D $$
 
-$$ C_{p_T} = \frac{p_T - p_{S_{\infty}}}{p_{D_{\infty}}} $$
+$$ C_{p_T} = \frac{p_T - p_{T_{\infty}}}{p_{D_{\infty}}} $$
 
 <figure>
   <video width="100%" muted playsinline autoplay="autoplay" loop="loop">
