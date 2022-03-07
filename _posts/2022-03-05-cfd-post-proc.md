@@ -15,7 +15,7 @@ classes: wide
 </video>
 
 <figure>
-	<img src="/assets/images/cfd-post-proc-results.jpg">
+	<img src="/assets/images/cfd-post-proc-data.jpg">
 </figure>
 
 $$ p_S = \rho RT $$
