@@ -20,6 +20,10 @@ $$ C_LA = \frac{L}{\frac{1}{2} \rho U_{\infty} ^ 2}$$
 	<img src="/assets/images/cfd-post-proc-data.jpg">
 </figure>
 
+| C_L\*A | C_D\*A | L/D |
+| -----: | -----: | --: |
+| 2.7 | 1.3 | 2.1 |
+
 $$ p_S = \rho RT $$
 
 $$ p_D = \frac{1}{2}\rho U ^ 2 $$
@@ -45,7 +49,3 @@ $$ C_{p_T} = \frac{p_T - p_{T_{\infty}}}{p_{D_{\infty}}} $$
 | Rear Wing | - | 43.0% | 37.3% |
 | Roll Hoop | 2.9% | - | 2.9% |
 | Suspension | 10.9% | - | 7.0% |
-
-| C_L\*A | C_D\*A | L/D |
-| -----: | -----: | --: |
-| 2.7 | 1.3 | 2.1 |
