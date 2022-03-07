@@ -28,6 +28,7 @@ $$ C_{p_T} = \frac{p_T - p_{T_{\infty}}}{p_{D_{\infty}}} $$
   </video>
 </figure>
 
+<div align="center">
 |  | Lift | Downforce | Drag |
 | :--------------- | -------: | -------: | -------------: |
 | Bodywork | - | 14.8% | 20.1% |
@@ -39,6 +40,7 @@ $$ C_{p_T} = \frac{p_T - p_{T_{\infty}}}{p_{D_{\infty}}} $$
 | Rear Wing | - | 43.0% | 37.3% |
 | Roll Hoop | 2.9% | - | 2.9% |
 | Suspension | 10.9% | - | 7.0% |
+<\div>
 
 | C_L\*A | C_D\*A | L/D |
 | -----: | -----: | --: |
