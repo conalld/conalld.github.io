@@ -30,15 +30,15 @@ $$ C_{p_T} = \frac{p_T - p_{T_{\infty}}}{p_{D_{\infty}}} $$
 
 |  | Lift | Downforce | Drag |
 | :--------------- | -------: | -------: | -------------: |
-| Bodywork |  | 14.8% | 20.1% |
-| Driver | 5.8% |  | 1.3% |
-| Engine | 17.1% |  | 5.4% |
-| Front Wheel | 36.3% |  | 6.4% |
-| Front Wing |  | 42.2% | 10.1% |
-| Rear Wheel | 26.9% |  | 9.4% |
-| Rear Wing |  | 43.0% | 37.3% |
-| Roll Hoop | 2.9% |  | 2.9% |
-| Suspension | 10.9% |  | 7.0% |
+| Bodywork | - | 14.8% | 20.1% |
+| Driver | 5.8% | - | 1.3% |
+| Engine | 17.1% | - | 5.4% |
+| Front Wheel | 36.3% | - | 6.4% |
+| Front Wing | - | 42.2% | 10.1% |
+| Rear Wheel | 26.9% | - | 9.4% |
+| Rear Wing | - | 43.0% | 37.3% |
+| Roll Hoop | 2.9% | - | 2.9% |
+| Suspension | 10.9% | - | 7.0% |
 
 | C_L\*A | C_D\*A | L/D |
 | -----: | -----: | --: |
