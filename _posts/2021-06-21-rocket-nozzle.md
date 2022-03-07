@@ -1,7 +1,7 @@
 ---
 title: "Personal Project: Design and CFD Simulation of a Rocket Engine Nozzle"
 categories:
-  - Personal Projects
+  - Articles
 tags:
   - Aerospace Engineering
   - Fluid Mechanics
