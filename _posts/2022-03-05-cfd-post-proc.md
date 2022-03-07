@@ -41,6 +41,7 @@ $$ C_{p_T} = \frac{p_T - p_{T_{\infty}}}{p_{D_{\infty}}} $$
 | Roll Hoop | 2.9% | - | 2.9% |
 | Suspension | 10.9% | - | 7.0% |
 <\div>
+<div>
 
 | C_L\*A | C_D\*A | L/D |
 | -----: | -----: | --: |
