@@ -1,5 +1,5 @@
 ---
-title: "Personal Project: Design and CFD Simulation of a Rocket Engine Nozzle"
+title: "Article: Design and CFD Simulation of a Rocket Engine Nozzle"
 categories:
   - Articles
 tags:
