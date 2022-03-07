@@ -14,7 +14,7 @@ classes: wide
   <source src="/assets/videos/cpt-opaque.mp4" type="video/mp4">
 </video>
 
-$$ p_S = \rho \frac{RT}{M} $$
+$$ p_S = \rho RT $$
 
 $$ p_D = \frac{1}{2}\rho U ^ 2 $$
 
