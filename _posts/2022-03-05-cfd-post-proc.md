@@ -16,6 +16,8 @@ classes: wide
 
 $$ p_S = \rho \frac{RT}{M} $$
 
+$$ p_D = \frac{1}{2}\rho U ^ 2 $$
+
 $$ p_T = p_S + p_D $$
 
 $$ C_{p_T} = \frac{p_T}{\frac{1}{2}\rho U_{\infty} ^ 2} $$
