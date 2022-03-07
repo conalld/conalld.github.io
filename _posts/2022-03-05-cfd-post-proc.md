@@ -14,6 +14,10 @@ classes: wide
   <source src="/assets/videos/cpt-opaque.mp4" type="video/mp4">
 </video>
 
+<figure>
+	<img src="/assets/images/cfd-post-proc.jpg">
+</figure>
+
 $$ p_S = \rho RT $$
 
 $$ p_D = \frac{1}{2}\rho U ^ 2 $$
