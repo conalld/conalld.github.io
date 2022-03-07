@@ -14,6 +14,8 @@ classes: wide
   <source src="/assets/videos/cpt-opaque.mp4" type="video/mp4">
 </video>
 
+$$ C_LA = \frac{L}{\frac{1}{2} \rho U_{\infty} ^ 2}$$
+
 <figure>
 	<img src="/assets/images/cfd-post-proc-data.jpg">
 </figure>
