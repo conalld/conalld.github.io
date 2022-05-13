@@ -14,5 +14,3 @@ classes: wide
 ---
 
 <object data="/assets/documents/Conall-Daly-4B13-Project.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-<iframe src="/assets/documents/Conall-Daly-4B13-Project.pdf" title="SOME_TITLE" />
