@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Conall Daly"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mechanical engineering student, currently working in the field of automotive safety simulation. Interested in automotive, aeronautical and computational engineering. In my sparetime I work as a deputy lead in the aerodynamics department at Formula Trinity."
+  bio    : "Mechanical engineering student, interested in aeronautical and computational engineering. In my sparetime I work as a deputy lead in the aerodynamics department at Formula Trinity."
   location : "Dublin, Ireland"
   links:
     - label: "GitHub"
