@@ -16,7 +16,7 @@
 title: conalld.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Mechanical engineering student, currently working in vehicle safety simulation. Interested in automotive, aeronautical and computational engineering.
+  Wannabe engineer.
 github_username: conalld
 minimal_mistakes_skin: dark
 search: true
@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Conall Daly"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mechanical engineering student, interested in aeronautical and computational engineering. In my sparetime I work as a deputy lead in the aerodynamics department at Formula Trinity."
+  bio    : "Mechanical engineering student, interested in aeronautical, marine, and computational engineering."
   location : "Dublin, Ireland"
   links:
     - label: "GitHub"
@@ -65,12 +65,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/conalldaly/"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Conall-Daly"
-    - label: "Formula Trinity"
-      icon: "fas fa-flag-checkered"
-      url: "https://formulatrinity.com/"
 
 footer:
   links:
@@ -80,12 +74,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/conalldaly/"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Conall-Daly"
-    - label: "Formula Trinity"
-      icon: "fas fa-flag-checkered"
-      url: "https://formulatrinity.com/"
 
 defaults:
   # _posts
