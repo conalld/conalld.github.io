@@ -5,6 +5,7 @@ categories:
 tags:
   - Aerodynamics
   - CFD
+  - CAD
 header:
   teaser: "/assets/images/cpt-opaque.jpeg"
 classes: wide
@@ -13,6 +14,10 @@ classes: wide
 <video width="100%" muted playsinline autoplay="autoplay" loop="loop">
   <source src="/assets/videos/cpt-opaque.mp4" type="video/mp4">
 </video>
+
+<figure>
+    <img src="/assets/images/sidewing.png">
+</figure>
 
 $$ C_LA = \frac{L}{\frac{1}{2} \rho U_{\infty} ^ 2}$$
 
