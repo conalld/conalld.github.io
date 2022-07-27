@@ -5,6 +5,8 @@ categories:
 tags:
   - Acoustic Engineering
   - Acoustic Metamaterials
+  - CAD
+  - 3D Printing
 header:
   teaser: "/assets/images/acoustic-metamaterial.jpg"
 classes: wide
