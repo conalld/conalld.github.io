@@ -16,7 +16,7 @@
 title: conalld.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Wannabe engineer.
+  Engineer.
 github_username: conalld
 minimal_mistakes_skin: dark
 search: true
@@ -83,7 +83,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      show_date: false
       comments: true
       share: true
       related: true
